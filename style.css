@@ -1,0 +1,60 @@
+.title-1 {
+    color: #D3C0AC;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 700%;
+
+}
+
+.text-1 {
+    text-align: center;
+    font-size: 170%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+.button-starten {
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.text-2 {
+    color: #d3c0ac;
+    font-family: 'Roboto Mono', monospace;
+    text-align: left;
+    font-size: 150%;
+}
+
+.text-3 {
+    color: #d3c0ac;
+    font-family: 'Roboto Mono', monospace;
+    text-align: right;
+    font-size: 150%;
+}
+
+.text-4 {
+    color: #d3c0ac;
+    font-family: 'Roboto Mono', monospace;
+    text-align: left;
+    font-size: 150%;
+}
+
+.footer-bottom {
+    width: 100%;
+    height: 400px;
+    background-color: #d3c0ac;
+}
+
+.text1-bottom {
+    font-family: 'Roboto Mono', monospace;
+    text-align: left;
+    font-size: 140%;
+}
+
+
+
+
+
+
+
